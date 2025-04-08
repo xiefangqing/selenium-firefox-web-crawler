@@ -1,0 +1,168 @@
+```
+### Kimai 功能特点介绍
+
+#### 评分:
+- 核心概念准确性: 1/5 - 这不是一篇关于强化学习或DQN的文档，因此核心概念准确性不适用。
+- 解释清晰易懂度: 3/5 - 语言表达基本清晰，但内容偏向罗列功能，缺乏深入解释。
+- 内容结构逻辑性: 3/5 - 结构较为松散，功能介绍之间缺乏明显的逻辑关系。
+- 原理深度与启发性: 1/5 - 没有原理性的解释，只是功能罗列。
+- 实现细节实用性: 1/5 - 没有实现细节。
+- 案例/应用相关性: 1/5 - 与DQN无关。
+- 教学内容适宜性: 1/5 - 不适合作为DQN教学材料。
+- **总分**: 11/35 (31.4%)
+
+#### 评价摘要:
+这篇文档是关于Kimai时间跟踪软件的功能介绍，与强化学习和DQN没有任何关系。它主要罗列了软件的各项功能，缺乏深度解释和逻辑性，不适合作为DQN教学材料。
+
+```
+
+功能特点 – Kimai
+Kimai
+Menu
+演示
+Pricing
+Community
+插件
+下载
+新闻
+Forum
+文档
+用户手册
+云
+本地部署
+开发者
+Login
+免费开始
+最适合您的最佳时间跟踪功能
+Kimai提供了广泛的功能，围绕您的项目时间跟踪需求和为我们的客户提供最佳实践解决方案，使他们的记账工作更轻松。
+通过插件获取更多功能
+技术和商业支持
+我确保为我构建的所有应用程序提供支持，我将协助您和您的团队。
+让我们一起合作
+Kimai能为您做什么？
+Kimai提供的不仅仅是时间跟踪，这里列出了其他重要的业务功能。
+移动就绪
+布局完全响应，专为桌面和移动使用而设计。每个用户都可以配置应该显示的数据列，例如防止在小型设备上水平滚动。
+认证和安全
+Kimai支持外部身份提供者，可通过LDAP和SAML跨多个提供者（如Google Workspace、Azure AD或Authentik）进行登录。此外，可以通过TOTP令牌启用双因素身份验证。
+插件
+Kimai 被构建为可扩展的，并且可以使用插件添加功能。想要创建它们的开发人员可以使用许多扩展点。
+多用户
+Kimai 可以由任意数量的用户使用：每个安装都支持具有不同角色的无限用户（请参阅权限）。
+多语言
+Kimai 可以本地化为任何语言，并且已经翻译成 30 多种语言。
+团队
+可以创建团队以将您的用户分组为逻辑组，例如部门或项目相关的对等组。客户和项目可以分配给这些团队，这将限制其他用户的可见性和访问权限。
+客户
+管理您的客户并设置地址、联系人、国家、货币、可见性（用于存档）和更多字段。
+项目
+使用订单号、预算和可见性（用于归档）管理每个客户的项目。
+活动
+活动用于将工作单元分配给时间表条目。使用订单号、预算和可见性（用于归档）管理每个项目的活动。活动可以是全球性的，如果多个项目共享同一个工作单元，则不再需要重复。
+发票
+不同的发票模板、条目分组选项、可配置的发票编号，您可以添加自己的 PDF、DOCX、HTML、XLSX 和 ODS 文件格式的模板。
+导出数据
+时间表数据可以导出到其他程序，或以 XLSX (Excel)、PDF、CSV 和 HTML 格式与不同部门共享。导出的记录还可以被锁定并防止进一步更改。
+费用
+购买该插件后，可以根据客户、项目和活动来跟踪支出—以便分类并纳入你的发票。
+SAML
+通过 SAML（单点登录又名 SSO）登录和注册用户，并重复使用现有的标识提供者，如谷歌工作区、身份验证或 Azure 活动目录。
+JSON API
+具有用于读取和写入数据的广泛 JSON API，因此外部应用程序和您的自定义工具可以与您最喜欢的时间跟踪器进行通信。
+双重认证 (2FA)
+Kimai 支持使用 TOTP 令牌进行双重身份认证：立即保护您的用户帐户！
+统计数据
+您的仪表板将向您显示有关记录时间和收集数据量的一些统计信息。我们总是可以添加更多图表！
+Docker
+我们有用于开发的 Docker 映像，还有用于生产用途的 Docker-Compose 设置的多种变体。
+时钟
+不希望您的用户记录任意时间表记录？切换到时钟模式，只允许“打卡”和“打卡下班”记录。不再需要手动指定开始和结束时间。
+费率计算
+费率可以基于每小时和固定金额计算，可针对客户、项目、活动和每个时间表记录单独配置。
+LDAP
+将 Kimai 与您的公司目录服务器（LDAP 或 Active Directory）连接并使用您现有的身份验证基础架构。
+迁移
+可以导入来自 Kimai v1 的数据，以便无缝迁移您的时间跟踪器。
+活动记录数
+并行记录任意次数，或将其限制为一次。
+上午/下午 格式
+Kimai 使用 24 小时格式的本地化版本。但是如果你习惯了 上午/下午 格式，你可以配置它。
+仅持续时间
+如果您当地的法律要求您只显示持续时间而不是开始和结束日期时间，您可以全局激活该模式。
+时间表过滤器
+您可以按用户、客户、项目、活动和日期过滤所有时间记录。
+权限
+可定制的权限结构。为您的用户分配不同的角色，例如用户可以记录时间，团队负责人可以打印发票和配置项目/活动，管理员可以配置用户和客户。
+用户资料
+每小时费率、Kimai 主题、密码和头像的个人统计信息和每个用户设置。
+用户注册
+Kimai 支持用户通过电子邮件激活自行注册。
+重设密码
+忘记密码了吗？ Kimai 通过电子邮件帮助您重置它。
+Customer Portal
+Share client and project statistics and timesheets with anyone using a secret URL, optionally password protected.
+Dark mode
+Because every app needs a dark-mode, which helps to reduce eye strain in the evening or in dark environments.
+报告和分析
+对记录的时间、客户、项目和活动进行分析。可以根据用户、客户、项目、活动、标签、时间段等等进行评估。
+Knows no limits
+Your SaaS software always includes limits? Not Kimai: there are no limits. You only pay for the amount of active users. I don't limit you, and I do not charge for inactive users. You can create an unlimited amount of users, customers, projects, activities, timesheets and more.
+Privacy comes first
+I respect your and your users privacy and data. No, this is not yet another boring introduction into a Privacy policy - that's how I run this business. I don't sell data. I follow the GDPR and will answer any question about involved sub-processors.
+Security in Kimai
+Kimai implements best-practices in application design to prevent common attacks. Automated security controls are critical to any software development workflow to reduce the amount of time from defect creation to defect detection. These scans run on every code change, every time.
+Security in the platform
+Software is only as secure as the system it runs on. I take a defense-in-depth approach with server and network infrastructure. Customers on the hosted platform are secured through multiple layers of protection.
+不想错过任何事情？
+订阅我们的时事通讯并随时了解 Kimai 和插件更新。
+订阅 *
+* 我们使用 Brevo 作为我们的营销平台。单击下方提交此表格，即表示您承认您提供的信息将根据其 使用条款 转移到 Brevo 进行处理。
+Kimai
+时间跟踪变得简单
+自由且易于使用的时间跟踪工具，适用于自由职业者、机构和公司。Kimai是一款开源软件，可供自行托管和作为SaaS使用。
+中文（中国）
+Čeština
+Deutsch
+English
+Español
+Français
+עברית
+Hrvatski
+Italiano
+Dutch
+Polski
+Português
+Português (Brasil)
+Русский
+Slovenčina
+Svenska
+தமிழ்
+Українська
+中文（中国）
+中文（繁體）
+Company
+Company
+关于 Kimai
+Open Source
+功能特点
+技术支持
+Reviews
+Discount codes
+Kimai for
+Kimai
+Non-Profits
+Agencies
+Consultants
+Software Developers
+More industries
+对比
+对比
+比较时间跟踪工具
+Clockify
+OpenProject
+toggl track
+网站公告
+隐私策略
+Terms
+Status
+Top

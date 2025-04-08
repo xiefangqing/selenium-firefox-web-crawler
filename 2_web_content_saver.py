@@ -2,7 +2,7 @@ import os
 import time
 import json
 from datetime import datetime
-from web_content_saver_base import WebContentSaverBase
+from src.web_content_saver_base import WebContentSaverBase
 
 class WebContentSaver(WebContentSaverBase):
     """

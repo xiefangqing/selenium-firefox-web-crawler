@@ -1,0 +1,74 @@
+{
+  "keyword": "项目结构",
+  "timestamp": "2025-04-08 20:54:06",
+  "stats": "",
+  "results_count": 11,
+  "results": [
+    {
+      "index": 1,
+      "title": "项目结构讲解 - 概述- 快应用",
+      "link": "https://doc.quickapp.cn/tutorial/overview/project-structure.html",
+      "description": "通过本节，你将学会: 项目介绍; 配置信息; 新增页面; 引入依赖. 项目介绍. 您可以通过快应用IDE 或命令行工具（hap-toolkit），来创建一个项目；. 该项目会包含了项目配置与 ..."
+    },
+    {
+      "index": 3,
+      "title": "看完这篇，别人的开源项目结构应该能看懂了",
+      "link": "https://zhuanlan.zhihu.com/p/115403195",
+      "description": "2020年3月23日 — 我们就以当下非常火热的Spring Boot典型项目结构为例，创建出来的项目应该总体分为三大层：. 项目根目录/src/main/java ：放置项目Java源代码; 项目 ..."
+    },
+    {
+      "index": 4,
+      "title": "项目结构- Python 项目工程化开发指南",
+      "link": "https://pyloong.github.io/pythonic-project-guidelines/guidelines/project_management/project_structure/",
+      "description": "项目结构以根目录开始，作为项目的环境。因为，为了在开发中正常导入 example_pkg 中所有的东西，就需要将项目根目录添加到 sys.path 中。这也就让项目根目录下的所有包都变成 ..."
+    },
+    {
+      "index": 5,
+      "title": "项目结构 - Cocos Creator",
+      "link": "https://docs.cocos.com/creator/3.8/manual/zh/getting-started/project-structure/",
+      "description": "2025年1月3日 — 项目文件夹结构 · assets ：资源目录 · build ：构建目录（在构建某平台后会生成该目录） · library ：导入的资源目录 · local ：日志文件目录 · profiles ： ..."
+    },
+    {
+      "index": 6,
+      "title": "standard/drafts/项目目录结构规范.md at master",
+      "link": "https://github.com/lingxyz/standard/blob/master/drafts/%E9%A1%B9%E7%9B%AE%E7%9B%AE%E5%BD%95%E7%BB%93%E6%9E%84%E8%A7%84%E8%8C%83.md",
+      "description": "本规范适用于 业务项目 和 包 项目。 app表示一个项目，$root表示项目的根目录。 将文件资源分为两大类： 代码资源 和 内容资源 。"
+    },
+    {
+      "index": 8,
+      "title": "",
+      "link": "https://vue3js.cn/interview/vue/structure.html",
+      "description": ""
+    },
+    {
+      "index": 9,
+      "title": "项目结构 - Astro Docs",
+      "link": "https://docs.astro.build/zh-cn/basics/project-structure/",
+      "description": "Astro 处理、压缩和打包你的 src/ 文件以创建最终传递到浏览器的网站。与静态的 public/ 目录不同，你的 src/ 文件是由Astro 为你构建和处理的。"
+    },
+    {
+      "index": 10,
+      "title": "【Java工程目录结构】项目结构和模块结构原创",
+      "link": "https://blog.csdn.net/qq_48054091/article/details/134228891",
+      "description": "2023年11月5日 — 总结起来，一个完整的Java项目结构应考虑模块化、层次清晰和配置规范，确保代码易于理解和维护。 合理的文件结构和配置文档能够提升开发效率，减少出错概率， ..."
+    },
+    {
+      "index": 11,
+      "title": "项目结构 - go-kratos.dev",
+      "link": "https://go-kratos.dev/docs/intro/layout/",
+      "description": "项目结构. 我们创建了kratos-layout 作为使用 kratos new 新建项目时所使用结构，其中包括了开发过程中所需的配套工具链( Makefile 等)，便于开发者更高效地维护整个项目，本 ..."
+    },
+    {
+      "index": 12,
+      "title": "项目结构 - Go-Zero",
+      "link": "https://go-zero.dev/docs/concepts/layout",
+      "description": "consumer： 队列消费服务; internal： 工程内部可访问的公共模块; job： cron job 服务; pkg： 工程外部可访问的公共模块; restful：HTTP 服务目录，下存放以服务为维度的微 ..."
+    },
+    {
+      "index": 14,
+      "title": "",
+      "link": "https://www.google.com/search?sca_esv=6292aac01ea52d81&q=python%E9%A1%B9%E7%9B%AE%E7%BB%93%E6%9E%84&sa=X&ved=2ahUKEwi2v9XHvciMAxWGUWcHHW4uJwgQ1QJ6BAg1EAE",
+      "description": ""
+    }
+  ]
+}

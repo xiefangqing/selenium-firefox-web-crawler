@@ -11,13 +11,13 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException, NoSuchElementException, WebDriverException
 
-class BilibiliBrowser:
+class FirefoxBrowserBase:
     """
-    B站浏览器基类，提供共享的浏览器功能
+    Firefox浏览器基类，提供共享的浏览器功能
     """
     def __init__(self, headless=False, connect_existing=False, geckodriver_path=None):
         """
-        初始化B站浏览器
+        初始化Firefox浏览器
         
         Args:
             headless: 是否使用无头模式（不显示浏览器窗口）

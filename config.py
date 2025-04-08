@@ -4,12 +4,6 @@ OUTPUT_DIR = "research_results"
 # API 配置
 API_KEYS = [
     "AIzaSyAvxxLKHWXuRQMXFIGwqv7AzzYne9xib68",
-    "AIzaSyA7_rxCiaMpKV7DBUO8nR7JOgPcgoE_hVk",
-    "AIzaSyBjXnRNk-bWcvYhaq_dy6nrppqp25WMrxc",
-    "AIzaSyDWfVMSjbifpDGV2s5wXQUePFIG-ByOZuE",
-    "AIzaSyBVbtbSZJc-aSoiYbyvnfiYejMkcAf1kFE",
-    
-
 
 ]
 MODEL = "gemini-2.0-flash"

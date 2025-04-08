@@ -1,0 +1,68 @@
+{
+  "keyword": "功能特点",
+  "timestamp": "2025-04-08 20:54:01",
+  "stats": "",
+  "results_count": 10,
+  "results": [
+    {
+      "index": 1,
+      "title": "功能特性_百度百科",
+      "link": "https://baike.baidu.com/item/%E5%8A%9F%E8%83%BD%E7%89%B9%E6%80%A7/994920",
+      "description": ""
+    },
+    {
+      "index": 3,
+      "title": "系统功能特点_百度百科",
+      "link": "https://baike.baidu.com/item/%E7%B3%BB%E7%BB%9F%E5%8A%9F%E8%83%BD%E7%89%B9%E7%82%B9/15531477",
+      "description": "系统功能特点，指产品支持各种数字化、网络化的教学媒体信息，还支持模拟音视频信息的功能特点。"
+    },
+    {
+      "index": 4,
+      "title": "功能特点",
+      "link": "https://www.kimai.org/zh_Hans/features.html",
+      "description": "认证和安全. Kimai支持外部身份提供者，可通过LDAP和SAML跨多个提供者（如Google Workspace、Azure AD或Authentik）进行登录。此外，可以通过TOTP令牌启用双因素身份验证。"
+    },
+    {
+      "index": 5,
+      "title": "机器学习功能特点、使用限制、相关函数_日志服务(SLS)",
+      "link": "https://help.aliyun.com/zh/sls/user-guide/machine-learning-syntax-and-functions/",
+      "description": "2024年12月12日 — 功能特点 · 支持单时序序列的多种平滑操作。 · 支持单时序序列的预测、异常检测、变点检测、折点检测、多周期估计算法。 · 支持单时序序列的分解操作。"
+    },
+    {
+      "index": 6,
+      "title": "功能特点- OceanStor Pacific系列8.1.0 特性指南09 - 华为",
+      "link": "https://support.huawei.com/enterprise/zh/doc/EDOC1100194252/79073f33",
+      "description": "2024年4月18日 — 在进行元数据变更持久化的同时，OceanStor Pacific系列引入快速事务处理机制，同时将元数据变更日志和变更之后的元数据写入加速磁盘介质。事务的引入可以 ..."
+    },
+    {
+      "index": 8,
+      "title": "功能特点",
+      "link": "https://audient.com/cn/%E6%88%91%E4%BB%AC%E7%9A%84%E4%BA%A7%E5%93%81/%E9%9F%B3%E9%A2%91%E6%8E%A5%E5%8F%A3/id4-stream-otg/%E5%8A%9F%E8%83%BD%E7%89%B9%E7%82%B9/",
+      "description": "6进/4出直播音频接口• 兼容Mac、Windows、iOS、Harmony OS和Android • 1XAudient调音台麦克风前置放大器• 领先的AD/DA转换器• 1 x JFET乐器输入• 1 x 立体声模拟辅助 ..."
+    },
+    {
+      "index": 10,
+      "title": "",
+      "link": "https://www.fa.omron.com.cn/ups/product/detail/12.html",
+      "description": ""
+    },
+    {
+      "index": 11,
+      "title": "功能特点-虚拟化实例-特性介绍",
+      "link": "https://www.hiascend.com/document/detail/zh/mindx-dl/60rc3/clusterscheduling/clusterschedulingsd/clusterschedulingsd/mxdlug_017.html",
+      "description": "功能特点功能介绍昇腾虚拟化实例功能是指通过资源虚拟化的方式将物理机或虚拟机配置的NPU（昇腾AI处理器）切分成若干份vNPU（虚拟NPU）挂载到容器中使用，虚拟化管理方式 ..."
+    },
+    {
+      "index": 12,
+      "title": "特性和功能",
+      "link": "https://www.ibm.com/docs/zh/license-metric-tool?topic=overview-features-functions",
+      "description": "特性和功能. 在线编辑. License Metric Tool 提供了用于管理虚拟化环境的有用功能。 它可发现安装在基础结构中的软件，并帮助您分析许可证度量利用率数据。"
+    },
+    {
+      "index": 13,
+      "title": "了解产品功能及其重要性",
+      "link": "https://www.atlassian.com/zh/agile/product-management/product-features",
+      "description": "功能是产品的技术基石，包括特色功能、组件和技术规范。相比之下，优势可将这些功能转化为真实的有利条件。它们解释了产品如何解决特定的用户问题或增强客户体验。 通过将 ..."
+    }
+  ]
+}

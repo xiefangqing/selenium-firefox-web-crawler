@@ -4,14 +4,14 @@ import hashlib
 import re
 from datetime import datetime
 from urllib.parse import urlparse
-from bilibili_browser import BilibiliBrowser
+from src.firefox_browser_base import FirefoxBrowserBase
 from bs4 import BeautifulSoup
 from pywinauto.application import Application
 import pywinauto.timings
 import pywinauto.findwindows
 import pyperclip
 
-class WebContentSaverBase(BilibiliBrowser):
+class WebContentSaverBase(FirefoxBrowserBase):
     """
     基础网页内容保存器：用于访问URL并保存网页内容
     """
