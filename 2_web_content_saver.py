@@ -288,7 +288,7 @@ if __name__ == "__main__":
             print(f"无效的延迟参数: {sys.argv[3]}，使用默认值: 3秒")
     
     # 使用固定的geckodriver路径
-    geckodriver_path = r"C:\python3\geckodriver.exe"
+    geckodriver_path = r"D:\AppProg\anaconda3\envs\selenium_env\Scripts\geckodriver.exe"
     if not os.path.exists(geckodriver_path):
         geckodriver_path = "geckodriver.exe"  # 回退到默认位置
     

@@ -402,7 +402,7 @@ if __name__ == "__main__":
             print(f"未指定关键词，使用默认关键词: {keywords}")
     
     # 使用固定的geckodriver路径
-    geckodriver_path = r"C:\python3\geckodriver.exe"
+    geckodriver_path = r"D:\AppProg\anaconda3\envs\selenium_env\Scripts\geckodriver.exe"
     if not os.path.exists(geckodriver_path):
         geckodriver_path = "geckodriver.exe"  # 回退到默认位置
     

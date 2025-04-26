@@ -1,13 +1,7 @@
-
-OUTPUT_DIR = "research_results" 
-
 # API 配置
 API_KEYS = [
-    "AIzaSyAvxxLKHWXuRQMXFIGwqv7AzzYne9xib68",
-
+    "YOUR_API_KEY_1"
 ]
-MODEL = "gemini-2.0-flash"
-API_URL = "https://www.dmxapi.com/v1/chat/completions"  # 替换为实际API端点
 
 # 运行参数
 MAX_RETRIES = 3
